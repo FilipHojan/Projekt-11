@@ -50,11 +50,11 @@ namespace Lotnisko_1._0
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(477, 344);
+            this.button1.Location = new System.Drawing.Point(67, 371);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(135, 53);
             this.button1.TabIndex = 1;
-            this.button1.Text = "Szczegóły";
+            this.button1.Text = "Wczytaj";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -70,7 +70,7 @@ namespace Lotnisko_1._0
             "Miasto"});
             this.checkedListBox1.Location = new System.Drawing.Point(445, 126);
             this.checkedListBox1.Name = "checkedListBox1";
-            this.checkedListBox1.Size = new System.Drawing.Size(200, 139);
+            this.checkedListBox1.Size = new System.Drawing.Size(200, 130);
             this.checkedListBox1.TabIndex = 2;
             // 
             // dataGridView1
@@ -84,11 +84,11 @@ namespace Lotnisko_1._0
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(96, 377);
+            this.button2.Location = new System.Drawing.Point(514, 310);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(88, 30);
             this.button2.TabIndex = 4;
-            this.button2.Text = "Wczytaj";
+            this.button2.Text = "Szczegóły";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
